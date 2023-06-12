@@ -67,6 +67,6 @@ public class Solution51 {
     }
 
     public static void main(String[] args) {
-        new Solution51().solveNQueens(4);
+        new Solution51_2().solveNQueens(4);
     }
 }
