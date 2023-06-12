@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution51_2 {
+public class Solution51 {
     List<List<String>> res = new ArrayList<>();
 
     public List<List<String>> solveNQueens(int n) {

@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.List;
 
-public class Solution46_2 {
+public class Solution46 {
     List<List<Integer>> res = new LinkedList<>();
 
     public List<List<Integer>> permute(int[] nums) {

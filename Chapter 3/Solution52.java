@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution52_2 {
+public class Solution52 {
     List<List<String>> res = new ArrayList<>();
     public List<List<String>> solveNQueens(int n) {
         List<String> board = new ArrayList<>();
@@ -13,7 +13,9 @@ public class Solution52_2 {
             board.add(sb.toString());
         }
         backtrack(board, 0);
+    
         return res;
+        
     }
 
     private void backtrack(List<String> board, int row) {
@@ -65,4 +67,5 @@ public class Solution52_2 {
     public int totalNQueens(int n) {
         return solveNQueens(n).size();
     }
+    
 }
