@@ -358,20 +358,16 @@
 #### 暴力搜索
 
 - [x] **回溯算法框架**
-
   - [全排列(46)](https://leetcode.cn/problems/permutations/)
-  
-  
-    - [N 皇后(51)](https://leetcode.cn/problems/n-queens/)
-  
-  
-    - [N皇后 II(52)](https://leetcode.cn/problems/n-queens-ii/)
-  
-  
-    - [没有重复元素集合的全排列(剑指 Offer II 083)](https://leetcode.cn/problems/VvJkup/)
-  
+  - [N 皇后(51)](https://leetcode.cn/problems/n-queens/)
+  - [N皇后 II(52)](https://leetcode.cn/problems/n-queens-ii/)
+  - [没有重复元素集合的全排列(剑指 Offer II 083)](https://leetcode.cn/problems/VvJkup/)
+
 
 
 - [x] **经典回溯算法：集合划分问题**
+
   - [划分为k个相等的子集(698)](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/)
+
+    
 
