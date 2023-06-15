@@ -11,19 +11,19 @@
 - [x] **双指针技巧-链表题目**
   - [环形链表（141）](https://leetcode.cn/problems/linked-list-cycle/)
   - [环形链表 II（142）](https://leetcode.cn/problems/linked-list-cycle-ii/)
-  - 相交链表（160）
-  - 删除链表的倒数第 N 个结点（19）
-  - 合并两个有序链表（21）
-  - 合并K个升序链表（23）
-  - 分隔链表（86）
-  - 链表的中间结点（876）
-  - 链表中倒数第k个节点（剑指 Offer 22）
-  - 合并两个排序的链表（剑指 Offer 25）
-  - 两个链表的第一个公共节点（剑指 Offer 52）
-  - 删除链表的倒数第 n 个结点（剑指 Offer II 021）
-  - 链表中环的入口节点（剑指 Offer II 022）
-  - 两个链表的第一个重合节点（剑指 Offer II 023）
-  - 合并排序链表（剑指 Offer II 078）
+  - [相交链表（160）](https://leetcode.cn/problems/intersection-of-two-linked-lists/)
+  - [删除链表的倒数第 N 个结点（19）](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
+  - [合并两个有序链表（21）](https://leetcode.cn/problems/merge-two-sorted-lists/)
+  - [合并K个升序链表（23）](https://leetcode.cn/problems/merge-k-sorted-lists/)
+  - [分隔链表（86）](https://leetcode.cn/problems/partition-list/)
+  - [链表的中间结点（876）](https://leetcode.cn/problems/middle-of-the-linked-list/)
+  - [链表中倒数第k个节点（剑指 Offer 22）](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+  - [合并两个排序的链表（剑指 Offer 25）](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
+  - [两个链表的第一个公共节点（剑指 Offer 52）](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
+  - [删除链表的倒数第 n 个结点（剑指 Offer II 021）](https://leetcode.cn/problems/SLwz0R/)
+  - [链表中环的入口节点（剑指 Offer II 022）](https://leetcode.cn/problems/c32eOV/)
+  - [两个链表的第一个重合节点（剑指 Offer II 023）](https://leetcode.cn/problems/3u1WK4/)
+  - [合并排序链表（剑指 Offer II 078）](https://leetcode.cn/problems/vvXgSW/)
 - [x] **双指针技巧-数组题目**
   - 两数之和 II - 输入有序数组（167）
   - 删除有序数组中的重复项（26）
@@ -352,26 +352,22 @@
 - [x] **用贪心思想-跳跃游戏**
   - 跳跃游戏 II（45）
   - 跳跃游戏（55）
-
 ## 第三章 常用算法技巧
-
 #### 暴力搜索
-
 - [x] **回溯算法框架**
   - [全排列(46)](https://leetcode.cn/problems/permutations/)
   - [N 皇后(51)](https://leetcode.cn/problems/n-queens/)
   - [N皇后 II(52)](https://leetcode.cn/problems/n-queens-ii/)
   - [没有重复元素集合的全排列(剑指 Offer II 083)](https://leetcode.cn/problems/VvJkup/)
-
-
-
 - [x] **经典回溯算法：集合划分问题**
-
   - [划分为k个相等的子集(698)](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/)
+- [x] **回溯算法秒杀所有排列-组合-子集问题**
+  - [子集(78)](https://leetcode.cn/problems/subsets/)
+  - [组合(77)](https://leetcode.cn/problems/combinations/)
+  - [全排列(46)](https://leetcode.cn/problems/permutations/)
+  
 
-  - 
   
-  - 
+
   
-    
 

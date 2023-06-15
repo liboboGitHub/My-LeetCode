@@ -3,9 +3,9 @@ import java.util.List;
 
 public class Solution46_2 {
     List<List<Integer>> res = new LinkedList<>();
+    LinkedList<Integer> trace = new LinkedList<>();
 
     public List<List<Integer>> permute(int[] nums) {
-        LinkedList<Integer> trace = new LinkedList<>();
         boolean[] used = new boolean[nums.length];
         backtrace(nums, trace, used);
         return res;
