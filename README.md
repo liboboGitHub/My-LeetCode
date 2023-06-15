@@ -1,5 +1,5 @@
 # My-LeetCode
-个人的LeetCode算法仓库，按题目类型分类。
+个人LeetCode算法仓库，按题目类型分类。
 
 参考项目
 
@@ -366,8 +366,8 @@
   - [组合(77)](https://leetcode.cn/problems/combinations/)
   - [全排列(46)](https://leetcode.cn/problems/permutations/)
   
-
   
-
+  
+  
   
 
