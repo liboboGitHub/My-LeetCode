@@ -3,8 +3,8 @@
 
 参考项目
 
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
-- [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
+- [x] [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+- [x] [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
 
 ## 第零章 核心框架
 
