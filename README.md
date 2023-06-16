@@ -49,20 +49,21 @@
   - N 皇后 II（52）
   - 没有重复元素集合的全排列（剑指 Offer II 083）
 - [x] **回溯算法-所有排列-组合-子集问题**
-  - 组合总和 III（216）
-  - 组合总和（39）
-  - 组合总和 II（40）
-  - 全排列（46）
-  - 全排列 II（47）
-  - 组合（77）
-  - 子集（78）
-  - 子集 II（90）
-  - 所有子集（剑指 Offer II 079）
-  - 含有 k 个元素的组合（剑指 Offer II 080）
-  - 允许重复选择元素的组合（剑指 Offer II 081）
-  - 含有重复元素集合的组合（剑指 Offer II 082）
-  - 没有重复元素集合的全排列（剑指 Offer II 083）
-  - 含有重复元素集合的全排列（剑指 Offer II 084）
+  - [组合总和 III（216）](https://leetcode.cn/problems/combination-sum-iii/)
+  - [组合总和（39）](https://leetcode.cn/problems/combination-sum/)
+  - [组合总和 II（40）](https://leetcode.cn/problems/combination-sum-ii/)
+  - [全排列（46）](https://leetcode.cn/problems/permutations/)
+  - [全排列 II（47）](https://leetcode.cn/problems/permutations-ii/)
+  - [组合（77）](https://leetcode.cn/problems/combinations/)
+  - [子集（78）](https://leetcode.cn/problems/subsets/)
+  - [子集 II（90）](https://leetcode.cn/problems/subsets-ii/)
+  - [所有子集（剑指 Offer II 079）](https://leetcode.cn/problems/TVdhkn/)
+  - [含有 k 个元素的组合（剑指 Offer II 080）](https://leetcode.cn/problems/uUsW3B/)
+  - [允许重复选择元素的组合（剑指 Offer II 081）](https://leetcode.cn/problems/Ygoe9J/)
+  - [含有重复元素集合的组合（剑指 Offer II 082）](https://leetcode.cn/problems/4sjJUc/)
+  - [没有重复元素集合的全排列（剑指 Offer II 083）](https://leetcode.cn/problems/VvJkup/)
+  - [含有重复元素集合的全排列（剑指 Offer II 084）](https://leetcode.cn/problems/7p8L0Z/)
+
 - [x] **BFS 框架**
   - 二叉树的最小深度（111）
   - 打开转盘锁（725）
@@ -362,12 +363,19 @@
 - [x] **经典回溯算法：集合划分问题**
   - [划分为k个相等的子集(698)](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/)
 - [x] **回溯算法秒杀所有排列-组合-子集问题**
-  - [子集(78)](https://leetcode.cn/problems/subsets/)
-  - [组合(77)](https://leetcode.cn/problems/combinations/)
-  - [全排列(46)](https://leetcode.cn/problems/permutations/)
-  
-  
-  
-  
+  - [组合总和 III（216）](https://leetcode.cn/problems/combination-sum-iii/)
+  - [组合总和（39）](https://leetcode.cn/problems/combination-sum/)
+  - [组合总和 II（40）](https://leetcode.cn/problems/combination-sum-ii/)
+  - [全排列（46）](https://leetcode.cn/problems/permutations/)
+  - [全排列 II（47）](https://leetcode.cn/problems/permutations-ii/)
+  - [组合（77）](https://leetcode.cn/problems/combinations/)
+  - [子集（78）](https://leetcode.cn/problems/subsets/)
+  - [子集 II（90）](https://leetcode.cn/problems/subsets-ii/)
+  - [所有子集（剑指 Offer II 079）](https://leetcode.cn/problems/TVdhkn/)
+  - [含有 k 个元素的组合（剑指 Offer II 080）](https://leetcode.cn/problems/uUsW3B/)
+  - [允许重复选择元素的组合（剑指 Offer II 081）](https://leetcode.cn/problems/Ygoe9J/)
+  - [含有重复元素集合的组合（剑指 Offer II 082）](https://leetcode.cn/problems/4sjJUc/)
+  - [没有重复元素集合的全排列（剑指 Offer II 083）](https://leetcode.cn/problems/VvJkup/)
+  - [含有重复元素集合的全排列（剑指 Offer II 084）](https://leetcode.cn/problems/7p8L0Z/)
   
 
