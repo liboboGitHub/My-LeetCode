@@ -362,7 +362,7 @@
   - [没有重复元素集合的全排列(剑指 Offer II 083)](https://leetcode.cn/problems/VvJkup/)
 - [x] **经典回溯算法：集合划分问题**
   - [划分为k个相等的子集(698)](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/)
-- [x] **回溯算法秒杀所有排列-组合-子集问题**
+- [x] **回溯算法排列-组合-子集问题**
   - [组合总和 III（216）](https://leetcode.cn/problems/combination-sum-iii/)
   - [组合总和（39）](https://leetcode.cn/problems/combination-sum/)
   - [组合总和 II（40）](https://leetcode.cn/problems/combination-sum-ii/)
@@ -378,4 +378,18 @@
   - [没有重复元素集合的全排列（剑指 Offer II 083）](https://leetcode.cn/problems/VvJkup/)
   - [含有重复元素集合的全排列（剑指 Offer II 084）](https://leetcode.cn/problems/7p8L0Z/)
   
+
+- [x] **岛屿问题**
+
+  - [飞地的数量（1020）](https://leetcode.cn/problems/number-of-enclaves/)
+
+  - [统计封闭岛屿的数目（1254）](https://leetcode.cn/problems/number-of-closed-islands/)
+
+  - [统计子岛屿（1905）](https://leetcode.cn/problems/count-sub-islands/)
+
+  - [岛屿数量（200）](https://leetcode.cn/problems/number-of-islands/)
+
+  - [不同岛屿的数量（694）](https://leetcode.cn/problems/number-of-distinct-islands/)
+
+  - [岛屿的最大面积（695）](https://leetcode.cn/problems/max-area-of-island/)
 
