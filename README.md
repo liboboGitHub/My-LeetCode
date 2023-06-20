@@ -447,8 +447,6 @@
   - [不同岛屿的数量（694）](https://leetcode.cn/problems/number-of-distinct-islands/)
   - [岛屿的最大面积（695）](https://leetcode.cn/problems/max-area-of-island/)
 
-- [x] ##### 测试
-
+##### [x] 测试
   - [不同岛屿的数量（694）](https://leetcode.cn/problems/number-of-distinct-islands/)
-
   - [岛屿的最大面积（695）](https://leetcode.cn/problems/max-area-of-island/)
