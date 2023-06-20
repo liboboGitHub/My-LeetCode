@@ -448,17 +448,3 @@
   - [岛屿的最大面积（695）](https://leetcode.cn/problems/max-area-of-island/)
   
 - [x] **回溯算法：解数独**
-
-- [x] **岛屿问题**
-
-  - [飞地的数量（1020）](https://leetcode.cn/problems/number-of-enclaves/)
-
-  - [统计封闭岛屿的数目（1254）](https://leetcode.cn/problems/number-of-closed-islands/)
-
-  - [统计子岛屿（1905）](https://leetcode.cn/problems/count-sub-islands/)
-
-  - [岛屿数量（200）](https://leetcode.cn/problems/number-of-islands/)
-
-  - [不同岛屿的数量（694）](https://leetcode.cn/problems/number-of-distinct-islands/)
-
-  - [岛屿的最大面积（695）](https://leetcode.cn/problems/max-area-of-island/)
