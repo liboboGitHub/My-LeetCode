@@ -449,3 +449,7 @@
   
 - [x] **回溯算法：解数独**
   - [解数独（37）](https://leetcode.cn/problems/sudoku-solver/)
+
+- [x] **回溯算法：括号生成**
+  - [括号生成（22）](https://leetcode.cn/problems/generate-parentheses/)
+  - [生成匹配的括号（剑指 Offer II 085）](https://leetcode.cn/problems/IDBivT/)
