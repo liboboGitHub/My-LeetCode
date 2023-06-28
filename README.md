@@ -4,7 +4,7 @@
 参考项目
 - [x] [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
 - [x] [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
-## 第零章 核心框架
+## 第一部分 核心框架
 
 - [x] **双指针技巧-链表题目**
   - [环形链表（141）](https://leetcode.cn/problems/linked-list-cycle/)
@@ -110,7 +110,7 @@
   - 两数之和 II - 输入有序数组（167）
   - 四数之和（18）
   - 数组中和为 0 的三个数（剑指 Offer II 007）
-## 第一章 数据结构
+## 第二部分 数据结构
 
 ### 链表
 
@@ -308,7 +308,7 @@
 - [x] **队列实现栈以及栈实现队列**
   - 设计推特（355）
     
-## 第二章 动态规划
+## 第三部分 动态规划
 
 #### 动态规划基本技巧
 
@@ -410,7 +410,7 @@
   - 跳跃游戏 II（45）
   - 跳跃游戏（55）
     
-## 第三章 常用算法技巧
+## 第四部分 常用算法技巧
 
 ### 暴力搜索
 
