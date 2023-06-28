@@ -453,3 +453,8 @@
 - [x] **回溯算法：括号生成**
   - [括号生成（22）](https://leetcode.cn/problems/generate-parentheses/)
   - [生成匹配的括号（剑指 Offer II 085）](https://leetcode.cn/problems/IDBivT/)
+
+- [x] **BFS 算法解题框架**
+  - [二叉树的最小深度（111）](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
+  - [打开转盘锁（752）](https://leetcode.cn/problems/open-the-lock/)
+  - [开密码锁（剑指 Offer II 109）](https://leetcode.cn/problems/zlDJc7/)
