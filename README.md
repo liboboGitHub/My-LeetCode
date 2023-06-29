@@ -458,3 +458,6 @@
   - [二叉树的最小深度（111）](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
   - [打开转盘锁（752）](https://leetcode.cn/problems/open-the-lock/)
   - [开密码锁（剑指 Offer II 109）](https://leetcode.cn/problems/zlDJc7/)
+
+- [x] **BFS 算法智力题**
+  - [滑动谜题（773）](https://leetcode.cn/problems/sliding-puzzle/)
