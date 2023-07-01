@@ -461,3 +461,10 @@
 
 - [x] **BFS 算法智力题**
   - [滑动谜题（773）](https://leetcode.cn/problems/sliding-puzzle/)
+
+### 数学运算技巧
+
+- [x] **一行代码智力题**
+  - [Nim 游戏（292）](https://leetcode.cn/problems/nim-game/)
+  - [灯泡开关（319）](https://leetcode.cn/problems/bulb-switcher/)
+  - [石子游戏（877）](https://leetcode.cn/problems/stone-game/)
