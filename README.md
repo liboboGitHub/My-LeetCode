@@ -468,3 +468,10 @@
   - [Nim 游戏（292）](https://leetcode.cn/problems/nim-game/)
   - [灯泡开关（319）](https://leetcode.cn/problems/bulb-switcher/)
   - [石子游戏（877）](https://leetcode.cn/problems/stone-game/)
+
+- [x] **位操作**
+  - [只出现一次的数字（136）](https://leetcode.cn/problems/single-number/)
+  - [位1的个数（191）](https://leetcode.cn/problems/number-of-1-bits/)
+  - [2 的幂（231）](https://leetcode.cn/problems/power-of-two/)
+  - [丢失的数字（268）](https://leetcode.cn/problems/missing-number/)
+  - [二进制中1的个数（剑指 Offer 15）](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)
