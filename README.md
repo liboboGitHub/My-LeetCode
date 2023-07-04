@@ -475,3 +475,6 @@
   - [2 的幂（231）](https://leetcode.cn/problems/power-of-two/)
   - [丢失的数字（268）](https://leetcode.cn/problems/missing-number/)
   - [二进制中1的个数（剑指 Offer 15）](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)
+
+- [x] **随机算法**
+  - [打乱数组（384）](https://leetcode.cn/problems/shuffle-an-array/)
