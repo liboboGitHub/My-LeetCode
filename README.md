@@ -24,32 +24,32 @@
   - [合并排序链表（剑指 Offer II 078）](https://leetcode.cn/problems/vvXgSW/)
   
 - [x] **双指针技巧-数组题目**
-  - 两数之和 II - 输入有序数组（167）
-  - 删除有序数组中的重复项（26）
-  - 移除元素（27）
-  - 移动零（283）
-  - 反转字符串（344）
-  - 最长回文子串（5）
-  - 删除排序链表中的重复元素（83）
-  - 和为s的两个数字（剑指 Offer 57）
-  - 排序数组中两个数字之和（剑指 Offer II 006）
+  - [两数之和 II - 输入有序数组（167）](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)
+  - [删除有序数组中的重复项（26）](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
+  - [移除元素（27）](https://leetcode.cn/problems/remove-element/)
+  - [移动零（283）](https://leetcode.cn/problems/move-zeroes/)
+  - [反转字符串（344）](https://leetcode.cn/problems/reverse-string/)
+  - [最长回文子串（5）](https://leetcode.cn/problems/longest-palindromic-substring/)
+  - [删除排序链表中的重复元素（83）](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)
+  - [和为s的两个数字（剑指 Offer 57）](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/)
+  - [排序数组中两个数字之和（剑指 Offer II 006）](https://leetcode.cn/problems/kLl5u1/)
   
 - [x] **二叉树基础**
-  - 二叉树的最大深度（104）
-  - 二叉树的前序遍历（144）
-  - 二叉树的直径（534）
-  - 二叉树的深度（剑指 Offer 55）
+  - [二叉树的最大深度（104）](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
+  - [二叉树的前序遍历（144）](https://leetcode.cn/problems/binary-tree-preorder-traversal/)
+  - [二叉树的直径（534）](https://leetcode.cn/problems/diameter-of-binary-tree/)
+  - [二叉树的深度（剑指 Offer 55）](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/)
   
 - [x] **动态规划框架**
-  - 零钱兑换（322）
-  - 斐波那契数（509）
-  - 最少的硬币数目（剑指 Offer II 103）
+  - [零钱兑换（322）](https://leetcode.cn/problems/coin-change/)
+  - [斐波那契数（509）](https://leetcode.cn/problems/fibonacci-number/)
+  - [最少的硬币数目（剑指 Offer II 103）](https://leetcode.cn/problems/gaM7Ch/)
   
 - [x] **回溯算法框架**
-  - 全排列（46）
-  - N 皇后（51）
-  - N 皇后 II（52）
-  - 没有重复元素集合的全排列（剑指 Offer II 083）
+  - [全排列（46）](https://leetcode.cn/problems/permutations/)
+  - [N 皇后（51）](https://leetcode.cn/problems/n-queens/)
+  - [N 皇后 II（52）](https://leetcode.cn/problems/n-queens-ii/)
+  - [没有重复元素集合的全排列（剑指 Offer II 083）](https://leetcode.cn/problems/VvJkup/)
   
 - [x] **回溯算法-所有排列-组合-子集问题**
   - [组合总和 III（216）](https://leetcode.cn/problems/combination-sum-iii/)
@@ -68,14 +68,14 @@
   - [含有重复元素集合的全排列（剑指 Offer II 084）](https://leetcode.cn/problems/7p8L0Z/)
   
 - [x] **BFS 框架** 
-  - 二叉树的最小深度（111）
-  - 打开转盘锁（725）
-  - 开密码锁（剑指 Offer II 109）
+  - [二叉树的最小深度（111）](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
+  - [打开转盘锁（725）](https://leetcode.cn/problems/open-the-lock/)
+  - [开密码锁（剑指 Offer II 109）](https://leetcode.cn/problems/zlDJc7/)
   
 - [x] **二分搜索**
-  - 在排序数组中查找元素的第一个和最后一个位置（34）
-  - 二分查找（704）
-  - 在排序数组中查找数字 I（剑指 Offer 53）
+  - [在排序数组中查找元素的第一个和最后一个位置（34）](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)
+  - [二分查找（704）](https://leetcode.cn/problems/binary-search/)
+  - [在排序数组中查找数字 I（剑指 Offer 53）](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
   
 - [x] **滑动窗口**
   - 无重复字符的最长子串（3）
