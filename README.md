@@ -478,3 +478,7 @@
 
 - [x] **随机算法**
   - [打乱数组（384）](https://leetcode.cn/problems/shuffle-an-array/)
+
+- [x] **阶乘算法**
+  - [阶乘后的零（172）](https://leetcode.cn/problems/factorial-trailing-zeroes/)
+  - [阶乘函数后 K 个零（793）](https://leetcode.cn/problems/preimage-size-of-factorial-zeroes-function/)
