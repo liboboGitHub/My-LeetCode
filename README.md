@@ -482,3 +482,12 @@
 - [x] **阶乘算法**
   - [阶乘后的零（172）](https://leetcode.cn/problems/factorial-trailing-zeroes/)
   - [阶乘函数后 K 个零（793）](https://leetcode.cn/problems/preimage-size-of-factorial-zeroes-function/)
+
+- [x] **寻找素数**
+  - [计数质数（204）](https://leetcode.cn/problems/count-primes/)
+
+- [x] **模幂运算**
+  - [超级次方（372）](https://leetcode.cn/problems/super-pow/)
+  
+- [x] **同时寻找缺失和重复的元素**
+  - [错误的集合（645）](https://leetcode.cn/problems/set-mismatch/)
