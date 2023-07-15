@@ -491,3 +491,9 @@
   
 - [x] **同时寻找缺失和重复的元素**
   - [错误的集合（645）](https://leetcode.cn/problems/set-mismatch/)
+
+### 经典面试题
+
+- [x] **运算优先级**
+  - [为运算表达式设计优先级（241）](https://leetcode.cn/problems/different-ways-to-add-parentheses/)
+
