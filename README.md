@@ -497,3 +497,8 @@
 - [x] **运算优先级**
   - [为运算表达式设计优先级（241）](https://leetcode.cn/problems/different-ways-to-add-parentheses/)
 
+- [x] **三道区间问题**
+  - [删除被覆盖区间（1288）](https://leetcode.cn/problems/remove-covered-intervals/)
+  - [合并区间（56）](https://leetcode.cn/problems/merge-intervals/)
+  - [区间列表的交集（986）](https://leetcode.cn/problems/interval-list-intersections/)
+  - [合并区间（剑指 Offer II 074）](https://leetcode.cn/problems/SsGoHC/)
