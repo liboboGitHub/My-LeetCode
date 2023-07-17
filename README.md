@@ -502,3 +502,6 @@
   - [合并区间（56）](https://leetcode.cn/problems/merge-intervals/)
   - [区间列表的交集（986）](https://leetcode.cn/problems/interval-list-intersections/)
   - [合并区间（剑指 Offer II 074）](https://leetcode.cn/problems/SsGoHC/)
+
+- [x] **分割数组**
+  - [分割数组为连续子序列（659）](https://leetcode.cn/problems/split-array-into-consecutive-subsequences/)
