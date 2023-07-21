@@ -505,3 +505,9 @@
 
 - [x] **分割数组**
   - [分割数组为连续子序列（659）](https://leetcode.cn/problems/split-array-into-consecutive-subsequences/)
+
+- [x] **煎饼排序**
+  - [煎饼排序（969）](https://leetcode.cn/problems/pancake-sorting/)
+
+- [x] **字符串乘法计算**
+  - [字符串相乘（43）](https://leetcode.cn/problems/multiply-strings/)
