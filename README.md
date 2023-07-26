@@ -515,3 +515,7 @@
 - [x] **实现一个计算器**
   - [基本计算器（224）](https://leetcode.cn/problems/basic-calculator/)
   - [基本计算器（227）](https://leetcode.cn/problems/basic-calculator-ii/)
+
+- [x] **接雨水问题**
+  - [盛最多水的容器（11）](https://leetcode.cn/problems/container-with-most-water/)
+  - [接雨水（42）](https://leetcode.cn/problems/trapping-rain-water/)
