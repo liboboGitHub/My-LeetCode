@@ -519,3 +519,8 @@
 - [x] **接雨水问题**
   - [盛最多水的容器（11）](https://leetcode.cn/problems/container-with-most-water/)
   - [接雨水（42）](https://leetcode.cn/problems/trapping-rain-water/)
+
+- [x] **括号相关的问题**
+  - [平衡括号字符串的最少插入次数（1541）](https://leetcode.cn/problems/minimum-insertions-to-balance-a-parentheses-string/)
+  - [有效的括号（20）](https://leetcode.cn/problems/valid-parentheses/)
+  - [使括号有效的最少添加（921）](https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/)
