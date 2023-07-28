@@ -524,3 +524,7 @@
   - [平衡括号字符串的最少插入次数（1541）](https://leetcode.cn/problems/minimum-insertions-to-balance-a-parentheses-string/)
   - [有效的括号（20）](https://leetcode.cn/problems/valid-parentheses/)
   - [使括号有效的最少添加（921）](https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/)
+
+- [x] **判定完美矩形**
+  - [完美矩形（391）](https://leetcode.cn/problems/perfect-rectangle/)
+
