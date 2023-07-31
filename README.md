@@ -530,3 +530,7 @@
 
 - [x] **调度考生的座位**
   - [考场就座（855）](https://leetcode.cn/problems/exam-room/)
+
+- [x] **二分查找高效判定子序列**
+  - [判断子序列（392）](https://leetcode.cn/problems/is-subsequence/)
+  - [匹配子序列的单词数（792）](https://leetcode.cn/problems/number-of-matching-subsequences/)
