@@ -536,8 +536,8 @@
   - [匹配子序列的单词数（792）](https://leetcode.cn/problems/number-of-matching-subsequences/)
 
 - [x] **常用排序算法**
-  - [冒泡排序]()
-  - [选择排序]()
-  - [插入排序]()
-  - [归并排序]()
-  - [快速排序]()
+  - [冒泡排序](https://github.com/liboboGitHub/My-LeetCode/blob/master/Part%204/BubbleSort.java)
+  - [选择排序](https://github.com/liboboGitHub/My-LeetCode/blob/master/Part%204/SelectionSort.java)
+  - [插入排序](https://github.com/liboboGitHub/My-LeetCode/blob/master/Part%204/InsertionSort.java)
+  - [归并排序](https://github.com/liboboGitHub/My-LeetCode/blob/master/Part%204/MergeSort.java)
+  - [快速排序](https://github.com/liboboGitHub/My-LeetCode/blob/master/Part%204/QuickSort.java)
