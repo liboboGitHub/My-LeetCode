@@ -534,3 +534,10 @@
 - [x] **二分查找高效判定子序列**
   - [判断子序列（392）](https://leetcode.cn/problems/is-subsequence/)
   - [匹配子序列的单词数（792）](https://leetcode.cn/problems/number-of-matching-subsequences/)
+
+- [x] **常用排序算法**
+  - [冒泡排序]()
+  - [选择排序]()
+  - [插入排序]()
+  - [归并排序]()
+  - [快速排序]()
