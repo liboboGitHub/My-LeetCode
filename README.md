@@ -75,7 +75,7 @@
 - [x] **二分搜索**
   - [在排序数组中查找元素的第一个和最后一个位置（34）](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)
   - [二分查找（704）](https://leetcode.cn/problems/binary-search/)
-  - [在排序数组中查找数字 I（剑指 Offer 53）](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
+  - [统计目标成绩的出现次数（LCR 172）](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
   
 - [x] **滑动窗口**
   - 无重复字符的最长子串（3）
